@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Visesh%20Boppana&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Software%20Engineer%20%7C%20LLMs%20%7C%20GenAI%20%7C%20RAG%20Pipelines&descAlignY=58&descSize=18&descColor=a78bfa" />
+# Hi there, I'm Visesh Boppana 👋
+
+### 🤖 AI & Software Engineer | LLMs | GenAI | RAG Pipelines
 
 <br/>
 
@@ -14,19 +16,11 @@
 
 ## 🧠 About Me
 
-<table>
-<tr>
-<td>
-
 - 🎓 **B.Tech CSE-DS** @ VNR VJIET (JNTUH) — GPA: **9.22/10**
 - 💼 **AI Intern @ KMSS** | AIML Minor @ IIT Patna
 - 🔭 Building: **LLM-powered apps · RAG Pipelines · AI Agents**
 - 🌱 Learning: **Advanced GenAI · Cloud-Native Backends · MLOps**
 - ⚡ Fun fact: **97.2 JEE percentile + Chess enthusiast ♟️**
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -157,10 +151,9 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=BoppanaVisesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoppanaVisesh&layout=compact&theme=tokyonight&hide_border=true" />
+![Visesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BoppanaVisesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BoppanaVisesh&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=BoppanaVisesh&theme=tokyonight&hide_border=true)
 
@@ -172,8 +165,6 @@
 
 ### 💬 Let's Connect & Build Something Intelligent Together!
 
-<img src="https://raw.githubusercontent.com/BoppanaVisesh/BoppanaVisesh/output/github-contribution-grid-snake.svg" alt="Snake Game" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+<img src="https://raw.githubusercontent.com/BoppanaVisesh/BoppanaVisesh/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
