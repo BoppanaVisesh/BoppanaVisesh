@@ -14,15 +14,19 @@
 
 ## 🧠 About Me
 
-```python
-visesh = {
-    "🎓 degree"    : "B.Tech CSE-DS @ VNR VJIET (JNTUH) — GPA: 9.22/10",
-    "💼 currently" : "AI Intern @ KMSS | AIML Minor (IIT Patna)",
-    "🔭 building"  : ["LLM-powered apps", "RAG Pipelines", "AI Agents"],
-    "🌱 learning"  : ["Advanced GenAI", "Cloud-Native Backends", "MLOps"],
-    "⚡ fun fact"  : "97.2 JEE percentile + Chess enthusiast 🤝",
-}
-` ` `
+<table>
+<tr>
+<td>
+
+- 🎓 **B.Tech CSE-DS** @ VNR VJIET (JNTUH) — GPA: **9.22/10**
+- 💼 **AI Intern @ KMSS** | AIML Minor @ IIT Patna
+- 🔭 Building: **LLM-powered apps · RAG Pipelines · AI Agents**
+- 🌱 Learning: **Advanced GenAI · Cloud-Native Backends · MLOps**
+- ⚡ Fun fact: **97.2 JEE percentile + Chess enthusiast ♟️**
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -146,8 +150,6 @@ visesh = {
 - 🥇 **1st Prize** — Data Detective Competition (Statistical Analysis & Visualization)
 - 🥈 **Runner-Up** — Technovista Hackathon
 - 🏆 **Smart India Hackathon (SIH)** — College Round Winner
-- 📊 **JEE Mains** — 97.2 Percentile
-- 🎯 **TS EAMCET** Rank 1929 | **AP EAMCET** Rank 1784
 
 ---
 
@@ -170,14 +172,8 @@ visesh = {
 
 ### 💬 Let's Connect & Build Something Intelligent Together!
 
-<!-- Snake Game -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BoppanaVisesh/BoppanaVisesh/output/github-contribution-grid-snake.svg" alt="Snake Game" />
-</div>
+<img src="https://raw.githubusercontent.com/BoppanaVisesh/BoppanaVisesh/output/github-contribution-grid-snake.svg" alt="Snake Game" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
 </div>
-```
-
-> ⚠️ **One thing to fix manually:** The `About Me` code block uses triple backticks — when pasting, make sure the closing ` ``` ` has **no spaces** between the backticks (I had to add spaces above to avoid breaking the display here). It should look like three consecutive backticks on their own line.
