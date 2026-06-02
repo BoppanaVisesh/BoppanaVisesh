@@ -1,10 +1,12 @@
+<!-- Header -->
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Visesh%20Boppana&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Software%20Engineer%20%7C%20LLMs%20%7C%20GenAI%20%7C%20RAG%20Pipelines&descAlignY=55&descAlign=50"/>
+</div>
 
-# Hi there, I'm Visesh Boppana 👋
+<br>
 
-### 🤖 AI & Software Engineer | LLMs | GenAI | RAG Pipelines
-
-<br/>
+<!-- Badges -->
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/visesh-boppana-a5654a301)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BoppanaVisesh)
@@ -12,74 +14,31 @@
 
 </div>
 
----
+<br>
 
-## 🧠 About Me
+<!-- About Me -->
+<div align="center">
+  <h2>🧠 About Me</h2>
+</div>
 
-- 🎓 **B.Tech CSE-DS** @ VNR VJIET (JNTUH) — GPA: **9.22/10**
-- 💼 **AI Intern @ KMSS** | AIML Minor @ IIT Patna
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Education
+- 🏫 **B.Tech CSE-DS** @ VNR VJIET (JNTUH)
+- 📊 GPA: **9.22/10**
+- 💼 **AI Intern @ KMSS** (Mar 2026 – May 2026)
+- 🏅 **AIML Minor Degree** — IIT Patna × Intellipaat *(Ongoing)*
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Quick Facts
 - 🔭 Building: **LLM-powered apps · RAG Pipelines · AI Agents**
 - 🌱 Learning: **Advanced GenAI · Cloud-Native Backends · MLOps**
-- ⚡ Fun fact: **97.2 JEE percentile + Chess enthusiast ♟️**
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏦 FinIntel
-**AI-Powered Financial Intelligence Platform**
-
-> Python · LLM · PyTorch · React · FastAPI · WebSockets
-
-- Processes **500+ documents** with LLM-driven agents
-- Automated fraud detection pipeline
-- Gemini API for real-time news sentiment
-- ⬇️ **40% faster** credit decisions · ⬆️ **35% accuracy**
-
-</td>
-<td width="50%">
-
-### 🧩 MindSpark
-**Adaptive AI Learning for Neurodivergent Users**
-
-> Python · Gemini API · React · Firebase · HuggingFace
-
-- Multi-provider LLM integration
-- RAG-based document assistance
-- Gamification for ADHD, Dyslexia & Autism spectrum
-- Inclusive, accessible design philosophy
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📊 Break Even
-**Self-Improving AI Business Platform**
-
-> React · Flask · MongoDB · Python · Gemini · Socket.IO
-
-- RAG memory engine + MongoDB Atlas vector search
-- Automated backend & deployment pipelines
-- ⬇️ **60% manual ops reduction**
-- ⬆️ **50% faster** data-driven decisions
-
-</td>
-<td width="50%">
-
-### 🏥 Health-Chatbot
-**Full-Stack AI Healthcare Platform**
-
-> TypeScript · JavaScript · Firebase · AI/ML
-
-- NLP-based symptom analysis
-- OCR prescription scanning
-- **40% faster** data retrieval via multi-layer caching
-- Supports **100+ concurrent users**
+- 🧩 Passionate about **Intelligent Automation**
+- ♟️ Chess enthusiast · 🍳 Cook · 🏐 Volleyball player
 
 </td>
 </tr>
@@ -87,84 +46,201 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-
-**AI / ML**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-**Frameworks & Backend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-**Cloud & DevOps**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-**Tools & BI**
-
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
----
-
-## 📜 Certifications
-
-| 🏅 Certification | 🏢 Issuer | 📅 Year |
-|---|---|---|
-| AIML Minor Degree | IIT Patna × Intellipaat | Ongoing |
-| Oracle Gen AI & Data Science | Oracle | Oct 2025 |
-| Programming in Java | NPTEL | Oct 2024 |
-| Tableau Certified Data Analyst | Udemy | Mar 2024 |
-
----
-
-## 🏆 Achievements
-
-- 🥇 **1st Prize** — Data Detective Competition (Statistical Analysis & Visualization)
-- 🥈 **Runner-Up** — Technovista Hackathon
-- 🏆 **Smart India Hackathon (SIH)** — College Round Winner
-
----
-
-## 📈 GitHub Stats
+<!-- Skills -->
+<div align="center">
+  <h2>🛠️ Technical Expertise</h2>
+</div>
 
 <div align="center">
 
-![Visesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BoppanaVisesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+### Languages & Core Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,r,html,css&perline=9&theme=dark" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BoppanaVisesh&layout=compact&theme=tokyonight&hide_border=true)
+### AI / ML & Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=9&theme=dark" />
+  <img height="50" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img height="50" src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=BoppanaVisesh&theme=tokyonight&hide_border=true)
+### Frameworks & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,fastapi,mongodb,firebase&perline=9&theme=dark" />
+</p>
+
+### Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,vscode&perline=9&theme=dark" />
+</p>
+
+### Tools & BI
+<p>
+  <img height="50" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img height="50" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img height="50" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
 </div>
 
 ---
 
+<!-- Projects -->
 <div align="center">
+  <h2>🚀 Featured Projects</h2>
+</div>
 
-### 💬 Let's Connect & Build Something Intelligent Together!
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🏦 FinIntel</h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+          <br><br>
+          <sub>🤖 AI platform processing 500+ docs with LLM agents · 40% faster credit decisions · 35% accuracy boost</sub>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">🧩 MindSpark</h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+          <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+          <br><br>
+          <sub>🎓 Adaptive AI learning platform for ADHD, Dyslexia & Autism with RAG-based assistance</sub>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">📊 Break Even</h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+          <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white" />
+          <br><br>
+          <sub>💼 Self-improving AI business platform · 60% less manual ops · 50% faster decisions</sub>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">🏥 Health-Chatbot</h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+          <br><br>
+          <sub>🩺 AI healthcare platform with NLP symptom analysis · OCR prescriptions · 100+ concurrent users</sub>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<img src="https://raw.githubusercontent.com/BoppanaVisesh/BoppanaVisesh/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+---
+
+<!-- Certifications -->
+<div align="center">
+  <h2>📜 Certifications</h2>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/🤖-AIML_Minor_Degree-6366F1?style=for-the-badge&labelColor=1f2937" />
+        <br><sub>IIT Patna × Intellipaat — Ongoing</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/☁️-Oracle_GenAI-FF0000?style=for-the-badge&labelColor=1f2937" />
+        <br><sub>Oracle — Oct 2025</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/☕-Java_Programming-ED8B00?style=for-the-badge&labelColor=1f2937" />
+        <br><sub>NPTEL — Oct 2024</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/📊-Tableau_Analyst-E97627?style=for-the-badge&labelColor=1f2937" />
+        <br><sub>Udemy — Mar 2024</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<!-- Achievements -->
+<div align="center">
+  <h2>🏆 Achievements</h2>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/🥇-Data_Detective_1st_Prize-FFD700?style=for-the-badge&labelColor=1f2937" />
+        <br><sub>Statistical Analysis & Visualization</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/🥈-Technovista_Runner_Up-C0C0C0?style=for-the-badge&labelColor=1f2937" />
+        <br><sub>Hackathon Competition</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/🏆-SIH_College_Winner-00C851?style=for-the-badge&labelColor=1f2937" />
+        <br><sub>Smart India Hackathon</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<!-- GitHub Stats -->
+<div align="center">
+  <h2>📊 GitHub Analytics</h2>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BoppanaVisesh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=6366f1&bg_color=0d1117&title_color=6366f1&text_color=ffffff&icon_color=6366f1"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoppanaVisesh&layout=compact&langs_count=10&theme=tokyonight&border_color=6366f1&bg_color=0d1117&title_color=6366f1&text_color=ffffff"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BoppanaVisesh&theme=tokyonight&border=6366f1&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1&sideLabels=6366f1&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" alt="GitHub Streak" />
+</div>
+
+---
+
+<!-- Footer -->
+<div align="center">
+  <h2>🌐 Let's Connect</h2>
+
+  <a href="https://linkedin.com/in/visesh-boppana-a5654a301">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
+  </a>
+  <a href="mailto:boppanavisesh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
+  </a>
+  <a href="https://github.com/BoppanaVisesh">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
+  </a>
 
 </div>
+
+<br>
+
+<!-- Snake Game -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BoppanaVisesh/BoppanaVisesh/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+</div>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer"/>
