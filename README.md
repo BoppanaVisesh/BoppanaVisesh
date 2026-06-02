@@ -5,7 +5,6 @@
 
 <br>
 
-<!-- Badges -->
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/visesh-boppana-a5654a301)
@@ -16,7 +15,6 @@
 
 <br>
 
-<!-- About Me -->
 <div align="center">
   <h2>🧠 About Me</h2>
 </div>
@@ -46,7 +44,6 @@
 
 ---
 
-<!-- Skills -->
 <div align="center">
   <h2>🛠️ Technical Expertise</h2>
 </div>
@@ -86,7 +83,6 @@
 
 ---
 
-<!-- Projects -->
 <div align="center">
   <h2>🚀 Featured Projects</h2>
 </div>
@@ -136,7 +132,7 @@
           <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
           <br><br>
-          <sub>🩺 AI healthcare platform with NLP symptom analysis · OCR prescriptions · 100+ concurrent users</sub>
+          <sub>🩺 AI healthcare platform · NLP symptom analysis · OCR prescriptions · 100+ concurrent users</sub>
         </div>
       </td>
     </tr>
@@ -145,7 +141,6 @@
 
 ---
 
-<!-- Certifications -->
 <div align="center">
   <h2>📜 Certifications</h2>
 </div>
@@ -175,7 +170,6 @@
 
 ---
 
-<!-- Achievements -->
 <div align="center">
   <h2>🏆 Achievements</h2>
 </div>
@@ -201,7 +195,6 @@
 
 ---
 
-<!-- GitHub Stats -->
 <div align="center">
   <h2>📊 GitHub Analytics</h2>
 </div>
@@ -219,7 +212,6 @@
 
 ---
 
-<!-- Footer -->
 <div align="center">
   <h2>🌐 Let's Connect</h2>
 
@@ -232,15 +224,12 @@
   <a href="https://github.com/BoppanaVisesh">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
   </a>
-
 </div>
 
 <br>
 
-<!-- Snake Game -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/BoppanaVisesh/BoppanaVisesh/output/github-contribution-grid-snake.svg" alt="Snake Game" />
 </div>
 
-<!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer"/>
