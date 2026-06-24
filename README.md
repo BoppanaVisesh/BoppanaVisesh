@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&height=80&lines=Hi+%F0%9F%91%8B+I'm+Visesh+Boppana;AI+%26+Software+Engineer;_LLMs+%7C+GenAI+%7C+RAG+Pipelines)
+![header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&height=80&lines=Hi+%F0%9F%91%8B+I'm+Visesh+Boppana;AI+%26+Software+Engineer;LLM+%7C+GenAI+%7C+RAG+Pipeline)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/visesh-boppana-a5654a301)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BoppanaVisesh)
